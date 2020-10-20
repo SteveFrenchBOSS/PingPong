@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "PingPongBBB", "PingPongBBB\PingPongBBB.vgdbcmake", "{3E6A95AD-D500-46CF-935D-162BB4FE44A2}"
+EndProject
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "PingPongTeensy", "PingPongTeensy\PingPongTeensy.vgdbproj", "{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Teensy_3 5 = Debug|Teensy_3 5
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|Teensy_3 5 = MinSizeRel|Teensy_3 5
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|Teensy_3 5 = Release|Teensy_3 5
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|Teensy_3 5 = RelWithDebInfo|Teensy_3 5
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.Debug|Teensy_3 5.ActiveCfg = Debug|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.MinSizeRel|Teensy_3 5.ActiveCfg = MinSizeRel|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.Release|Teensy_3 5.ActiveCfg = Release|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.RelWithDebInfo|Teensy_3 5.ActiveCfg = RelWithDebInfo|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{3E6A95AD-D500-46CF-935D-162BB4FE44A2}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.Debug|Teensy_3 5.ActiveCfg = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.Debug|Teensy_3 5.Build.0 = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.Debug|VisualGDB.ActiveCfg = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.MinSizeRel|Teensy_3 5.ActiveCfg = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.MinSizeRel|Teensy_3 5.Build.0 = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.MinSizeRel|VisualGDB.ActiveCfg = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.MinSizeRel|VisualGDB.Build.0 = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.Release|Teensy_3 5.ActiveCfg = Release|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.Release|Teensy_3 5.Build.0 = Release|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.Release|VisualGDB.ActiveCfg = Release|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.RelWithDebInfo|Teensy_3 5.ActiveCfg = Release|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.RelWithDebInfo|Teensy_3 5.Build.0 = Release|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.RelWithDebInfo|VisualGDB.ActiveCfg = Debug|Teensy_3 5
+		{72FF55D6-6CD3-4C76-9DE1-356D554D4B97}.RelWithDebInfo|VisualGDB.Build.0 = Debug|Teensy_3 5
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B202EA9E-866A-4652-9D13-4AEAB8837311}
+	EndGlobalSection
+EndGlobal
