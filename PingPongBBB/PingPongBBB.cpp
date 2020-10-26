@@ -80,6 +80,7 @@ int main(int argc, char *argv[])
 	while (true)
 	{
 		write(tty, "ping", 5);
+		std::cout << "ping" << std::endl;
 
 		char pong[5] = {0};
 
